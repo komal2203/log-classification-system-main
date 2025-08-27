@@ -147,10 +147,10 @@ log-classification/
 - **Official Docker Image**:  
   👉 Pull and run directly from Docker Hub:  
   ```bash
-  docker pull shivam99999/log-classification:latest
-  docker run -p 8000:8000 --env-file .env shivam99999/log-classification:latest
+  docker pull komal2203/log-classification:latest
+  docker run -p 8000:8000 --env-file .env komal2203/log-classification:latest
   ```
-  [View on Docker Hub](https://hub.docker.com/u/shivam99999)
+  [View on Docker Hub](https://hub.docker.com/u/komal2203)
 
 ---
 
