@@ -1,0 +1,12 @@
+python-dotenv
+sentence_transformers
+pandas
+scikit-learn
+joblib
+hf_xet
+google-genai
+fastapi
+uvicorn
+pydantic
+python-multipart
+jinja2
