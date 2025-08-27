@@ -4,7 +4,7 @@ Welcome to the **Log Classification System**! This project is a robust, producti
 
 ---
 
-## 📸 [Video Demo](https://drive.google.com/file/d/1bb_JI3DcNXefgUKthANVY5fGdQGy3zDH/view?usp=drive_link)
+## 📸 [Video Demo](https://drive.google.com/file/d/1YYo5-O3kUDNjOMb7RweLPCOKc9U8GzHC/view?usp=sharing)
 
 ---
 
